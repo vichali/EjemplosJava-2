@@ -12,8 +12,8 @@ public class VectoresMain {
 
 	public static void main(String[] args) {
 		
-		VectoresUso_2 vm = new VectoresUso_2();
-		vm.asignando();
+		VectoresUso_4 vm = new VectoresUso_4();
+		vm.listarImpuestos();
 		
 
 	}
