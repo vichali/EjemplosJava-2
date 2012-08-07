@@ -1,7 +1,6 @@
 package creacionDeArreglos;
 public class VectoresUso_2 {
 	public void asignando() {
-		
 		int[] n = {10,20,30,40,50};
 
 		System.out.println("El valor del vector n, en pos 1 es: " + n[1] + "\n");

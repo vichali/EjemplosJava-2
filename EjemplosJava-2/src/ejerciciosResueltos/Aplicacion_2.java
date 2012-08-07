@@ -12,6 +12,7 @@ public class Aplicacion_2 {
         int cant;
         cant=teclado.nextInt();
         sueldos=new int[cant];
+        
         for(int f=0;f<sueldos.length;f++) {
             System.out.print("Ingrese sueldo:");
             sueldos[f]=teclado.nextInt();
