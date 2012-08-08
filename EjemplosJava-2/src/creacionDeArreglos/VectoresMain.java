@@ -11,10 +11,10 @@ package creacionDeArreglos;
 public class VectoresMain {
 
 	public static void main(String[] args) {
-		
-		VectoresUso_4 vm = new VectoresUso_4();
-		vm.listarImpuestos();
-		
+		String diasDeLaSemana[] = {"lunes","martes", "miércoles","jueves","sabado", "domingo"};
+
+		VectoresUso_5 vm = new VectoresUso_5();
+		vm.imprimirElementos(diasDeLaSemana);
 
 	}
 
