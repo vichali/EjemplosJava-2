@@ -11,11 +11,16 @@ package creacionDeArreglos;
 public class VectoresMain {
 
 	public static void main(String[] args) {
-		String diasDeLaSemana[] = {"lunes","martes", "miércoles","jueves","sabado", "domingo"};
+		
+		String diasDeLaSemana[] = {"lunes","martes", "miércoles","jueves","viernes", "sabado", "domingo"};
 
-		VectoresUso_5 vm = new VectoresUso_5();
+		VectoresUso_5 vm = new VectoresUso_5(); 
 		vm.imprimirElementos(diasDeLaSemana);
 
 	}
 
 }
+
+
+
+
