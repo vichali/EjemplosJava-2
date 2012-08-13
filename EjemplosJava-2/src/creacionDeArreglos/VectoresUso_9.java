@@ -30,3 +30,7 @@ public static void main( String args[] )
       System.out.printf( "%6d %17d \n", calificacion, frecuencia[ calificacion ] );
 } // end main
 } // end class 
+
+
+
+

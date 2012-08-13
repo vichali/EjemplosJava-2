@@ -23,8 +23,12 @@ public class VectoresUso_7 {
          // imprime los asteriscos
          for ( int stars = 0; stars < vec[ contador ]; stars++ )
             System.out.print( "*" );
-
          System.out.println(); // linea en blanco
       } // end For
    } // end Main
 } // end class 
+
+
+
+
+
