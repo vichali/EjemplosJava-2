@@ -12,7 +12,6 @@ public class VectoresUsoMulti_1 {
 		
 	*/
 			System.out.println(vector_1[1][1]);
-			
 	}
 
 }

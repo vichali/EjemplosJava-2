@@ -8,10 +8,10 @@ public class VectoresUsoMulti_3 {
 	      int vector1[][] = { { 1, 2, 3 }, { 4, 5, 6 } };        
 	      int vector2[][] = { { 1, 2 }, { 3 }, { 4, 5, 6 } }; 
 
-	      System.out.println( "Los valores del vector1 por filas son: " );
+	System.out.println( "Los valores del vector1 por filas son: " );
 	      recorrerVector( vector1 ); // muestra vector1 por filas
 	   
-	      System.out.println( "\nLos valores del vector2 por filas son: " );
+	System.out.println( "\nLos valores del vector2 por filas son: " );
 	      recorrerVector( vector2 ); // muestra vector2 por filas
 	   } // endmain
 
